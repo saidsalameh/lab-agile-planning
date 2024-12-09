@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: User Story
 about: Custom issue template for lab agile
 title: ''
 labels: ''
